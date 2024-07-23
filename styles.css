@@ -35,9 +35,9 @@ nav ul li a {
 
 main {
     display: flex;
-    justify-content: space-evenly;
-    padding: 3em;
+    justify-content: space-around;
 }
+
 
 section {
     width: 70%;
