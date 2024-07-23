@@ -36,7 +36,7 @@ nav ul li a {
 main {
     display: flex;
     justify-content: space-between; /* Or any other value you prefer */
-    padding: 3em;
+    padding: 1em;
     background-color: #9595ff; /* Change this to any color you like */
 }
 
